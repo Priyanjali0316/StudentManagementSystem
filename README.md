@@ -1,4 +1,4 @@
-# Student Management System
+# Student Management System(Change by Indhumathi)- DevOps Lab
 
 ## Project Overview
 The **Student Management System** is a Python-based application developed as part of a Git and GitHub collaborative version control lab. The project demonstrates team collaboration using branches, commits, merging, conflict resolution, stashing, recovery, and release management done for DevOps Lab.
